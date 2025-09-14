@@ -1,0 +1,60 @@
+ li a:hover{
+color: #FF0043
+ }
+.btn .link1 a button
+{
+color: #d3335d;
+border-color:#FF0043;
+
+transition: all 2s linear;
+border-width: 2px;
+border-radius: 6px;
+background-color: white;
+padding: 10px;
+font-size: 1rem;
+border-color:#d3335d;
+
+ }
+.btn .link1 a button:hover {
+
+color: aliceblue;
+background-color:#FF0043;
+ }
+.btn .link2 a button ,button {
+color: white;
+border-color:#FF0043;
+
+transition: all 2s linear;
+border-width: 2px;
+border-radius: 6px;
+background-color: #FF0043;
+padding: 10px;
+font-size: 1rem;
+border-color:#FF0043;
+ }
+ .btn .link2 a button:hover ,button:hover {
+color: #FF0043;
+background-color:aliceblue;
+border-color:#FF0043 ;
+ }
+
+.btn li a {
+    color: #d3335d;
+border-color:#FF0043;
+ 
+transition: all 2s linear;
+border-width: 2px;
+border-radius: 6px;
+background-color: white;
+padding: 10px;
+font-size: 1rem;
+border-color:#d3335d;
+text-decoration: none;
+ }
+ .btn li a:hover {
+color: #FF0043;
+background-color:aliceblue;
+border-color:#FF0043 ;
+ }
+ 
+
